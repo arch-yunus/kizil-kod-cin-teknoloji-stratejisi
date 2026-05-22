@@ -1,0 +1,18 @@
+[
+  {
+    "id": "doc-1",
+    "title": "Yarıiletken üretim kapasitesi planı",
+    "content": "Bu çalışma üretim prototipleri ve pilot üretim hattı kurulmasını öngörmektedir. Pilot ve saha denemeleri planlanmıştır."
+  },
+  {
+    "id": "doc-2",
+    "title": "Kuramsal Yapay Zeka Araştırma",
+    "content": "Makine öğrenmesi temelli yeni bir yöntem öneriliyor; ilk çalışma araştırma makalesi olarak sunulmuştur."
+  },
+  {
+    "id": "doc-3",
+    "title": "5G Ticari Yaygınlaştırma",
+    "content": "Şebeke üreticileri geniş ölçekli dağıtım ve commercial deployment aşamasına geçti.
+"
+  }
+]
