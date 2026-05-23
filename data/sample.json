@@ -1,6 +1,14 @@
 [
-  { "id": 1, "title": "Çin Yarıiletken Stratejisi", "tags": ["yarıiletken", "politik"] },
-  { "id": 2, "title": "Yapay Zeka Yatırımları", "tags": ["yapay-zeka", "yatırım"] },
-  { "id": 3, "title": "5G ve Telekom", "tags": ["5g", "altyapı"] },
-  { "id": 4, "title": "Yapay Zeka Uygulamaları", "tags": ["yapay-zeka"] }
+  { "id": "doc-1", "title": "SMIC 7nm ve 5nm Çip Üretim Süreçleri", "tags": ["yarıiletken", "politika"] },
+  { "id": "doc-2", "title": "Baidu Ernie Bot 4.0 LLM Yetenek Değerlendirmesi", "tags": ["yapay-zeka"] },
+  { "id": "doc-3", "title": "Huawei 6G Ağ Standartları ve Patent Başvuruları", "tags": ["telekom", "politika"] },
+  { "id": "doc-4", "title": "CATL Sodyum-İyon ve Katı Hal Batarya Geliştirme", "tags": ["batarya"] },
+  { "id": "doc-5", "title": "Tiangong Uzay İstasyonu Robotik Kol Entegrasyonu", "tags": ["uzay"] },
+  { "id": "doc-6", "title": "Great Firewall Kuantum Anahtar Dağıtımı (QKD) Entegrasyonu", "tags": ["siber-güvenlik", "kuantum"] },
+  { "id": "doc-7", "title": "Çin Devlet Konseyi 'Made in China 2025' İlerleme Raporu", "tags": ["politika"] },
+  { "id": "doc-8", "title": "Yapay Zeka Destekli Otonom Dron Sürüsü (DJI)", "tags": ["yapay-zeka", "uzay"] },
+  { "id": "doc-9", "title": "Fotonik Çip Laboratuvar Deneyleri (Tsinghua Üniversitesi)", "tags": ["yarıiletken", "kuantum"] },
+  { "id": "doc-10", "title": "BYD Blade Batarya Güvenlik ve Saha Testleri", "tags": ["batarya"] },
+  { "id": "doc-11", "title": "Şanghay Akıllı Şehir Kameraları Yüz Tanıma Entegrasyonu", "tags": ["yapay-zeka", "siber-güvenlik"] },
+  { "id": "doc-12", "title": "Kuantum Haberleşme Uydusu Micius Prototip Çalışmaları", "tags": ["kuantum", "uzay", "telekom"] }
 ]

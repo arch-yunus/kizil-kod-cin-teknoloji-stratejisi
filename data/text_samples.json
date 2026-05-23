@@ -1,18 +1,62 @@
 [
   {
     "id": "doc-1",
-    "title": "Yarıiletken üretim kapasitesi planı",
-    "content": "Bu çalışma üretim prototipleri ve pilot üretim hattı kurulmasını öngörmektedir. Pilot ve saha denemeleri planlanmıştır."
+    "title": "SMIC 7nm ve 5nm Çip Üretim Süreçleri",
+    "content": "Çin'in yerli yarıiletken üreticisi SMIC, mevcut litografi sistemlerini optimize ederek 7nm çiplerin seri üretim sürecini başarıyla tamamlamış ve ticari pazara sunmuştur. Öte yandan, 5nm süreci için laboratuvar ölçekli entegre prototip çalışmalarına başlanmış olup henüz pilot üretim aşamasına geçilmemiştir."
   },
   {
     "id": "doc-2",
-    "title": "Kuramsal Yapay Zeka Araştırma",
-    "content": "Makine öğrenmesi temelli yeni bir yöntem öneriliyor; ilk çalışma araştırma makalesi olarak sunulmuştur."
+    "title": "Baidu Ernie Bot 4.0 LLM Yetenek Değerlendirmesi",
+    "content": "Baidu'nun geliştirdiği Ernie Bot 4.0 büyük dil modelinin bilişsel ve mantıksal kapasitesini artırmak amacıyla, yeni bir derin öğrenme mimarisi tasarımı üzerine araştırma makalesi yayınlanmış ve kuramsal temel ilkeler ortaya konmuştur."
   },
   {
     "id": "doc-3",
-    "title": "5G Ticari Yaygınlaştırma",
-    "content": "Şebeke üreticileri geniş ölçekli dağıtım ve commercial deployment aşamasına geçti.
-"
+    "title": "Huawei 6G Ağ Standartları ve Patent Başvuruları",
+    "content": "Huawei, 6G telekomünikasyon altyapısı ve uydu-yerleşik entegre hücresel ağlar için temel teorileri formüle etmiş ve frekans spektrumuna yönelik ilk tasarım aşaması çalışmalarını tamamlamıştır."
+  },
+  {
+    "id": "doc-4",
+    "title": "CATL Sodyum-İyon ve Katı Hal Batarya Geliştirme",
+    "content": "CATL, yeni nesil sodyum-iyon ve katı-hal batarya hücrelerinin kimyasal kararlılığını ölçmek amacıyla bilgisayar destekli şarj simülasyonu ve laboratuvar testi gerçekleştirmiştir."
+  },
+  {
+    "id": "doc-5",
+    "title": "Tiangong Uzay İstasyonu Robotik Kol Entegrasyonu",
+    "content": "Tiangong Uzay İstasyonunda kargo modüllerini taşımak üzere geliştirilen 10 metre uzunluğundaki robotik kol sistemi, yörüngedeki operasyonel ortam altında gerçekleştirilen testleri tamamlayarak kalifiye edilmiştir."
+  },
+  {
+    "id": "doc-6",
+    "title": "Great Firewall Kuantum Anahtar Dağıtımı (QKD) Entegrasyonu",
+    "content": "Great Firewall ulusal siber savunma ağlarına kuantum kriptografi anahtar dağıtımı (QKD) entegre edilmesi amacıyla yürütülen analitik çalışma ve kavram kanıtlama safhası başarıyla tamamlanmıştır."
+  },
+  {
+    "id": "doc-7",
+    "title": "Çin Devlet Konseyi 'Made in China 2025' İlerleme Raporu",
+    "content": "Devlet Konseyi, yerli sanayinin dijital dönüşüm hedeflerine ulaştığını, akıllı fabrikaların ve endüstriyel IoT ağlarının ülke genelinde yaygınlaştırma aşamasına geçerek operasyonel kullanıma girdiğini duyurdu."
+  },
+  {
+    "id": "doc-8",
+    "title": "Yapay Zeka Destekli Otonom Dron Sürüsü (DJI)",
+    "content": "DJI, karmaşık arama-kurtarma senaryolarındaGPS bağımsız hareket edebilen yapay zeka destekli otonom dron sürüleri için saha koşullarında prototip gösterimi düzenleyerek sistemi doğrulamıştır."
+  },
+  {
+    "id": "doc-9",
+    "title": "Fotonik Çip Laboratuvar Deneyleri (Tsinghua Üniversitesi)",
+    "content": "Tsinghua Üniversitesi araştırmacıları, geleneksel silikon çiplerin ısınma sorununu aşmak için ışık hızında çalışan fotonik entegre devreler üzerinde temel laboratuvar deneyi ve simülasyon çalışmaları yürütmektedir."
+  },
+  {
+    "id": "doc-10",
+    "title": "BYD Blade Batarya Güvenlik ve Saha Testleri",
+    "content": "BYD'nin ticari araçlarda kullanılacak yeni nesil yüksek güvenlikli batarya hücreleri, aşırı iklim koşullarında test edilmek üzere gerçek araç filosuna yerleştirilerek saha denemesi ve pilot sürüş sürecine tabi tutulmuştur."
+  },
+  {
+    "id": "doc-11",
+    "title": "Şanghay Akıllı Şehir Kameraları Yüz Tanıma Entegrasyonu",
+    "content": "Şanghay büyükşehir izleme altyapısına entegre edilen yapay zeka destekli anlık yüz tanıma ve kalabalık analiz sistemi, şehrin tüm caddelerinde sahada aktif şekilde operasyonel olarak kullanılmaktadır."
+  },
+  {
+    "id": "doc-12",
+    "title": "Kuantum Haberleşme Uydusu Micius Prototip Çalışmaları",
+    "content": "Kuantum haberleşme uydusu Micius-2 için tasarlanan yüksek hassasiyetli lazer vericisi, laboratuvarda kurulan entegre prototip üzerinde test edilmiş ve sinyal doğruluğu onaylanmıştır."
   }
 ]
